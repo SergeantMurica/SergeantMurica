@@ -1,32 +1,72 @@
-# 💫 About Me:
+# Alexander Castro
 
-Hi there! I’m a disabled veteran who has turned a love for gaming, creativity, and problem-solving into a passionate journey of learning and building. Currently, I’m diving deep into the world of coding and game development, honing my skills with tools like React and working on ambitious projects that merge functionality and fun.<br><br>I’m working on creating innovative applications, like a productivity app combining Kanban boards, note-taking, and time tracking, with a vision to improve how people organize their lives. My ultimate goal? To transform my hobbies into a full-time career that inspires creativity, collaboration, and a sense of purpose.<br><br>When I’m not coding or brainstorming new ideas, I enjoy immersing myself in games, exploring new tech, and tackling challenges that push my skills further. Every project I work on is fueled by my desire to create meaningful, engaging, and impactful experiences.<br><br>Let’s create something amazing together.
+### Software Engineer | Full-Stack Web Development | Game Technology
 
-## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20work-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://a-castrosportfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexanderscastro)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/SergeantMurica) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@SergeantMurica) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/SergeantMurica) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SergeantMurica) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@SergeantMurica) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SergeantMurica) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=github&logoColor=white)](https://alexander-portfolio-hub.vercel.app/)
+I build maintainable web applications, internal tools, dashboards, and interactive prototypes. My primary stack is **Python, TypeScript, JavaScript, React, Next.js, Node.js, SQL, and REST APIs**. I enjoy turning ambiguous requirements into clear, useful software and improving products through careful testing, documentation, and iteration.
 
-# 💻 My Tech:
+I am a U.S. Army veteran and software engineer who brings disciplined execution, calm problem-solving, and strong cross-functional communication to technical work. I am currently open to **Software Developer, Full-Stack Developer, Frontend Engineer, and Web Application Developer** opportunities.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue](https://img.shields.io/badge/vuejs-%2335495E.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Svelte](https://img.shields.io/badge/svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+## Featured Projects
 
-# 📊 GitHub Stats:
+### [Prismatic Interactive Company Site](https://prismaticinteractive.com/)
 
-![](https://github-readme-stats.vercel.app/api?username=SergeantMurica&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SergeantMurica&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeantMurica&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Company website and private dashboard built with reusable components, structured navigation, and responsive public-facing workflows.
 
-### ✍️ Random Dev Quote
+**React · Next.js · TypeScript · Tailwind CSS**
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
+### [Veritas Search Engine](https://veritas-eosin.vercel.app/)
 
-### 🔝 Top Contributed Repo
+AI-assisted research interface with API-driven summaries, responsive layouts, reusable UI components, and tested user flows.
 
-![](https://github-contributor-stats.vercel.app/api?username=SergeantMurica&limit=5&theme=react&combine_all_yearly_contributions=true)
+**React · Next.js · TypeScript · Tailwind CSS · OpenAI API**
 
----
+### [Portfolio Site](https://a-castrosportfolio.vercel.app/)
 
-[![](https://visitcount.itsvg.in/api?id=SergeantMurica&icon=0&color=1)](https://visitcount.itsvg.in)
+A multi-framework portfolio project used to compare routing, component architecture, responsive design, and full-stack development patterns.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**React · Next.js · TypeScript · JavaScript · Python · Django · Vue · Svelte**
 
+### [Blueprint Power Pack](https://www.fab.com/listings/6160d8c3-7059-4f40-b238-4fa7229644cb)
+
+Reusable Unreal Engine utilities and project foundations designed to accelerate gameplay prototyping and reduce repetitive setup.
+
+**Unreal Engine 5 · C++ · Object-Oriented Design**
+
+## Technical Focus
+
+**Languages:** Python, TypeScript, JavaScript, SQL, C++, HTML, CSS
+
+**Web:** React, Next.js, Node.js, Tailwind CSS, REST APIs, responsive design, reusable components, accessibility awareness
+
+**Data and delivery:** PostgreSQL, T-SQL, API integration, Git, GitHub, deployment, testing, debugging, technical documentation
+
+**Additional:** Unreal Engine 5, Django, WordPress, Google Analytics, Linux administration, networking fundamentals
+
+## Experience Snapshot
+
+- **Co-Founder and Software Engineer, Prismatic Interactive** — Build and maintain the company site, internal dashboard features, shared components, and Unreal Engine prototypes.
+- **Freelance Software Engineer** — Design and deliver web applications, internal tools, API integrations, data workflows, and technical prototypes.
+- **U.S. Army Combat Medic / Healthcare Specialist** — Worked in high-responsibility environments requiring accuracy, documentation, training, teamwork, and calm decision-making under pressure.
+
+## Education and Certifications
+
+- **A.A.S. Information Technology**, Glendale Community College, 2025
+- **B.S. Political Science**, Methodist University, 2020
+- CCNA: Introduction to Networks, Cisco Networking Academy, 2025
+- Red Hat System Administration I (RH124), Red Hat, 2025
+
+## GitHub Activity
+
+<p align="left">
+	<img src="https://github-readme-stats.vercel.app/api?username=SergeantMurica&show_icons=true&hide_border=true&theme=transparent" alt="Alexander's GitHub statistics" height="160" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeantMurica&layout=compact&hide_border=true&theme=transparent" alt="Alexander's most used languages" height="160" />
+</p>
+
+## Outside the Code
+
+Gaming, game development, technical learning, and building tools that make complicated tasks easier to understand and complete.
+
+<a href="https://github.com/SergeantMurica">GitHub</a> · <a href="https://www.youtube.com/@SergeantMurica">YouTube</a> · <a href="https://twitch.tv/SergeantMurica">Twitch</a> · <a href="https://x.com/SergeantMurica">X</a>
