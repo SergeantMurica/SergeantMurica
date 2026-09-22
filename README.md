@@ -58,13 +58,6 @@ Reusable Unreal Engine utilities and project foundations designed to accelerate 
 - CCNA: Introduction to Networks, Cisco Networking Academy, 2025
 - Red Hat System Administration I (RH124), Red Hat, 2025
 
-## GitHub Activity
-
-<p align="left">
-	<img src="https://github-readme-stats.vercel.app/api?username=SergeantMurica&show_icons=true&hide_border=true&theme=transparent" alt="Alexander's GitHub statistics" height="160" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeantMurica&layout=compact&hide_border=true&theme=transparent" alt="Alexander's most used languages" height="160" />
-</p>
-
 ## Outside the Code
 
 Gaming, game development, technical learning, and building tools that make complicated tasks easier to understand and complete.
